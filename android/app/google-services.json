@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "571226201141",
+    "firebase_url": "https://flutterflashchatproject.firebaseio.com",
+    "project_id": "flutterflashchatproject",
+    "storage_bucket": "flutterflashchatproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571226201141:android:b004d0b2387161856ce57c",
+        "android_client_info": {
+          "package_name": "co.tarlochan.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571226201141-jnfgmr7i9hvu7bjqm815c1job5qqr9do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK2C0DgPFdQk-d1Flh69-49GeZ2svJxz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571226201141-jnfgmr7i9hvu7bjqm815c1job5qqr9do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
